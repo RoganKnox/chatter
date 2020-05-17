@@ -8,13 +8,9 @@
         }
     ],
     "require": {
-        "luketowers/purifier": "~3.0"
+        "mewebstudio/Purifier": "3.2.2"
     },
     "require-dev": {
-        "illuminate/cache": "~5.1.20|5.2.*|5.3.*",
-        "illuminate/console": "~5.1.20|5.2.*|5.3.*",
-        "mockery/mockery": "^0.9.5",
-        "phpunit/phpunit": "~5.7.14"
     },
     "autoload": {
 	    "psr-4": {
